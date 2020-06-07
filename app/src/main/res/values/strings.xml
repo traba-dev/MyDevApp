@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Notice</string>
+    <string name="titleRegister">Crea una cuenta de Notice</string>
+    <string name="hintName">Nombre</string>
+    <string name="hintLastName">Apellidos</string>
+    <string name="hintPhone">Número de teléfono</string>
+    <string name="hintEmail">Correo electrónico</string>
+    <string name="hintPass">Contraseña</string>
+    <string name="hintConfPass">Confirmación</string>
+    <string name="btnRegister">Registrar</string>
+    <string name="login">LOGIN</string>
+    <string name="enterEmail">Enter Email</string>
+    <string name="enterPass">Enter Password</string>
+    <string name="remember">Remember me</string>
+    <string name="btnEnter">GO</string>
+    <string name="newUser">Nuevo Usuario</string>
+    <string name="item_notification">Notificaciones</string>
+    <string name="item_kanban">Mi Kanban</string>
+    <string name="item_profile">Mi Perfil</string>
+    <string name="item_other_op">Otras Opciones</string>
+    <string name="item_nav">Navegación</string>
+    <string name="item_exit">Salir</string>
+    <string name="item_exit_clear">Salir y borrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleProfile">Mi perfil</string>
+    <string name="delete">Borrar</string>
+    <string name="InWork">En trabajo</string>
+    <string name="submit">test</string>
+    <string name="titleForm">Form Notificación</string>
+    <string name="titleNotify">Ingrese un titulo</string>
+    <string name="descriptionNotify">Ingrese una descripción</string>
+    <string name="item_delete_not">Borrar</string>
+    <string name="Done">Hecho</string>
+    <string name="ToDo">Por Hacer</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

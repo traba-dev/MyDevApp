@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_not"
+            android:title="@string/item_notification"
+            android:icon="@android:drawable/ic_dialog_alert"
+            />
+        <item
+            android:id="@+id/item_my_kanban"
+            android:title="@string/item_kanban"
+            android:icon="@drawable/ic_assignment"
+            />
+        <item
+            android:id="@+id/item_profile"
+            android:title="@string/item_profile"
+            android:icon="@android:drawable/ic_dialog_info"
+            />
+    </group>
+    <item android:title="@string/item_other_op">
+        <menu>
+            <item
+                android:id="@+id/item_navigation"
+                android:icon="@drawable/ic_add_loc"
+                android:title="@string/item_nav"
+                />
+            <item
+                android:id="@+id/item_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/item_exit"
+                />
+            <item
+                android:id="@+id/item_exit_clear"
+                android:icon="@drawable/ic_close"
+                android:title="@string/item_exit_clear"
+                />
+        </menu>
+    </item>
+</menu>
